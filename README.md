@@ -11,7 +11,7 @@
 - [x] Сгенирировать Personal Token с правами gist и сохранить его в файл
 - [x] Составить отчет и отправить ссылку личным сообщением в Slack
 ### Tutorial
-'''
+```
 ###### $ cmake --version
 cmake version 3.17.0
 
@@ -75,4 +75,4 @@ Copyright (C) 2015 Free Software Foundation, Inc.
 ###### $ openssl version
 LibreSSL 2.6.5
 
-'''
+```
